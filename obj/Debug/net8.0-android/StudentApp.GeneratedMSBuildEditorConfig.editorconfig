@@ -1,0 +1,97 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = StudentApp
+build_property.ProjectDir = C:\C971\StudentApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/C971/StudentApp/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentApp.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/C971/StudentApp/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentApp.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/C971/StudentApp/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentApp.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/C971/StudentApp/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentApp.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/C971/StudentApp/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentApp.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/C971/StudentApp/Views/AddAssessmentPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentApp.Views.AddAssessmentPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AddAssessmentPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AddAssessmentPage.xaml
+
+[C:/C971/StudentApp/Views/AddCoursePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentApp.Views.AddCoursePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AddCoursePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AddCoursePage.xaml
+
+[C:/C971/StudentApp/Views/AddTermPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentApp.Views.AddTermPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AddTermPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AddTermPage.xaml
+
+[C:/C971/StudentApp/Views/EditAssessmentPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentApp.Views.EditAssessmentPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\EditAssessmentPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\EditAssessmentPage.xaml
+
+[C:/C971/StudentApp/Views/EditCoursePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentApp.Views.EditCoursePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\EditCoursePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\EditCoursePage.xaml
+
+[C:/C971/StudentApp/Views/EditTermPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentApp.Views.EditTermPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\EditTermPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\EditTermPage.xaml
+
+[C:/C971/StudentApp/Views/ViewCoursePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentApp.Views.ViewCoursePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ViewCoursePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ViewCoursePage.xaml
+
+[C:/C971/StudentApp/Views/ViewTermPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentApp.Views.ViewTermPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ViewTermPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ViewTermPage.xaml
